@@ -1,4 +1,8 @@
 # Aviator Dreams
+## https://www.curseforge.com/minecraft/mc-mods/aviator-dreams
+## https://modrinth.com/mod/aviator-dreams
+<img width="528" height="528" alt="image" src="https://github.com/user-attachments/assets/ec56061d-498c-4760-80b1-8b3e3ff30b9c" />
+
 
 * Model and Textures by Nax
 * Code by Luke100000
